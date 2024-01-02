@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @dinesh-bk
-- 👀 I’m interested in Machine Learning Engineering.
+- 👋 Hi, I’m Dinesh Bishwakarma
+- I'm a Physicist cum ML Enginner.
+- 👀 I’m interested in Neural Networks.
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on any ML Projects. 
 - 📫 How to reach me?
