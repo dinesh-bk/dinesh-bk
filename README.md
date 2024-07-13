@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **physicist** cum **AI/ML engineer** with a passion for leveraging cutting-edge technology to solve complex problems. As a recipient of the **AWS AI/ML Engineer Scholarship** and a holder of two Nanodegrees from **Udacity** in Generative AI and Machine Learning DevOps Engineering, I have honed my skills across various domains of AI, with a particular focus on Generative AI and scalable ML solutions.
+I am a **physicist** cum **AI/ML engineer** with a passion for leveraging cutting-edge technology to solve complex problems. As a recipient of the **AWS AI/ML Engineer Scholarship** and a holder of two Nanodegrees from **Udacity** in **Generative AI** and **Machine Learning DevOps Engineering**, I have honed my skills across various domains of AI, with a particular focus on Generative AI and scalable ML solutions.
 
 ## 🏆 Achievements
 
