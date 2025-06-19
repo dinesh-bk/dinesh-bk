@@ -30,13 +30,6 @@ I am a **physicist** cum **AI/ML engineer** with a passion for leveraging cuttin
 
 I am always open to discussing new projects, collaborations, or the latest trends in AI and ML. Feel free to reach out through the following platforms:
 
-[](https://www.linkedin.com/in/dinesh-bishwakarma-6521261a4/)
-
-
-## 🌐 Let's Connect
-
-I am always open to discussing new projects, collaborations, or the latest trends in AI and ML. Feel free to reach out through the following platforms:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dinesh-bishwakarma-6521261a4/)
 
 <!---
