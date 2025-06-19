@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile\! 👋
 
 ## About Me
 
@@ -6,70 +6,32 @@ I am a **physicist** cum **AI/ML engineer** with a passion for leveraging cuttin
 
 ## 🏆 Achievements
 
-- 🎖 **AWS AI/ML Engineer Scholarship Recipient**
-- 📜 **Udacity Nanodegrees:**
-  - Generative AI
-  - Machine Learning DevOps Engineer
+  - 🎖 **AWS AI/ML Engineer Scholarship Recipient**
+  - 📜 **Udacity Nanodegrees:**
+      - Generative AI
+      - Machine Learning DevOps Engineer
 
 ## 💡 Skills and Expertise
 
 ### Generative AI
 
-#### Generative AI Fundamentals:
-- Proficient in **Generative AI Fluency, Image Classification, Transfer Learning**, and **Training Neural Networks**.
-- Experienced with **Hugging Face**, **Parameter-Efficient Fine-Tuning**, and **Prompt Engineering**.
-- Strong background in **Deep Learning, PyTorch**, and **Foundation Models**.
-- Advocating for **Ethical AI** practices.
+  - **Fundamentals:** Proficient in Deep Learning, PyTorch, Foundation Models, and Ethical AI. Experienced with Hugging Face, Parameter-Efficient Fine-Tuning (PEFT), and Prompt Engineering.
+  - **Large Language Models (LLMs) & NLP:** Skilled in building with LLMs using APIs (OpenAI, Together AI), Retrieval-Augmented Generation (RAG), and LangChain. Expertise in NLP, Transformers, BERT, and text processing techniques.
+  - **Computer Vision:** Experienced in Image Generation (GANs, Diffusion Models), Classification, Segmentation, and Object Detection. Proficient with CNNs, Vision Transformers, and Transfer Learning.
 
-#### Large Language Models (LLMs) & Text Generation:
-- Skilled in using **Together AI API** and implementing search functionalities in **Python**.
-- Expertise in **NLP Transformers, GPT, Selenium**, and various **Large Language Models**.
-- Proficient in **Data Cleaning, Natural Language Processing (NLP), BERT**, and the **OpenAI API**.
-- Adept at **Retrieval-Augmented Generation, Transformer Neural Networks**, and **Prompt Engineering**.
-- Competent with **Pandas, PyTorch, Tokenization**, and **Cosine Similarity**.
-- Familiar with **API Requests, Recurrent Neural Networks (RNNs), Attention Mechanisms**, and **Text Generation**.
-- Experienced in **BeautifulSoup, Data Quality Assessment, Word Embeddings**, and **Data Scraping**.
+### Machine Learning DevOps (MLOps)
 
-#### Computer Vision and Generative AI:
-- Proficient in **Image Pre-processing, Transfer Learning**, and **Word Embeddings**.
-- Knowledgeable about **Ethical AI, Diffusion Models**, and the **YOLO Algorithm**.
-- Skilled in **Model Evaluation, Text Generation**, and **Computer Vision Fluency**.
-- Competent in **Image Classification, Large Language Models, Pandas**, and **Image Generation**.
-- Experienced in **Training Neural Networks, Convolutional Neural Networks (CNNs)**, and **Parameter-Efficient Fine-Tuning**.
-- Adept at **Image Segmentation, Computer Vision Transformers**, and **Tokenization**.
-- Proficient in **Data Quality Assessment** and **Generative Adversarial Networks (GANs)**.
+  - **ML Workflows & Reproducibility:** Expertise in building reproducible ML pipelines using tools like MLflow, DVC, and Hydra. Proficient in experiment tracking, data versioning, and validation.
+  - **Automation & CI/CD:** Skilled in deploying scalable ML pipelines into production using CI/CD with GitHub Actions. Experienced in API development with FastAPI and deployment on platforms like Heroku.
+  - **Code & Quality Assurance:** Strong advocate for clean code, following PEP8 standards, and utilizing best practices for testing (Pytest), logging, and code refactoring.
+  - **Model Monitoring & Maintenance:** Competent in monitoring for model drift, performing model scoring, and implementing strategies for continuous model updates and maintenance.
 
-#### Building Generative AI Solutions:
-- Experienced in using **Vectors**, **Retrieval-Augmented Generation**, **OpenAI API**, and **LangChain** for building AI solutions.
+## 🌐 Let's Connect
 
-### Machine Learning DevOps Engineer
+I am always open to discussing new projects, collaborations, or the latest trends in AI and ML. Feel free to reach out through the following platforms:
 
-#### Clean Code Principles:
-- Proficient in **Git, Python Testing, Model Drift**, and **GitHub Collaboration**.
-- Knowledgeable about **Coding Best Practices, Python Documentation (PEP8), Linting**, and **Code Refactoring**.
-- Experienced in **Test Automation, Python Exception Handling, Logging**, and **GitHub Branches**.
-- Adept at **Code Reviews** and **Unit Testing**.
+[](https://www.linkedin.com/in/dinesh-bishwakarma-6521261a4/)
 
-#### Building a Reproducible Model Workflow:
-- Skilled in **Machine Learning Configuration Management, Exploratory Data Analysis (EDA)**, and using **Weights & Biases**.
-- Proficient in **Data Cleaning, Model Deployment, Hydra**, and **Data Versioning**.
-- Knowledgeable about **Non-Deterministic Data Testing, Machine Learning Pipeline Creation**, and **Deterministic Data Testing**.
-- Experienced with **Pytest, MLflow, Data Validation**, and **Model Testing**.
-- Competent in **Machine Learning Experiment Tracking, Data Pre-processing for ML, Model Evaluation**, and **Inference Pipelines**.
-- Proficient in **Data Splitting** and **Model Performance Metrics**.
-
-#### Deploying a Scalable ML Pipeline in Production:
-- Skilled in using **DVC, Continuous Integration (CI), Machine Learning Experiment Tracking**, and **Software Development Automation**.
-- Proficient with **GitHub Actions, Continuous Deployment (CD)**, and **Unit Testing**.
-- Experienced with **Heroku, FastAPI, API Development**, and **Model Documentation**.
-- Knowledgeable about **Git, Aequitas, API Testing**, and **Machine Learning Pipeline Creation**.
-- Adept at **Data Slicing, API Deployment**, and **Model Bias Analysis**.
-
-#### ML Model Scoring and Monitoring:
-- Proficient in **Machine Learning Ops Troubleshooting, Automated Machine Learning (AutoML)**, and **ML Project Reporting**.
-- Skilled in **Automated Model Scoring, API Configuration, Model Drift**, and **Continuous Model Updating**.
-- Experienced in **API Requests, Model Score Recording, Machine Learning Data Recording**, and **Data Ingestion**.
-- Competent in **Model Deployment**.
 
 ## 🌐 Let's Connect
 
